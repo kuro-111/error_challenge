@@ -1,2 +1,2 @@
 # error_challenge
-practicing dealing with errors
+practicing dealing with errors in js
